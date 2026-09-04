@@ -7,13 +7,13 @@ about:
   head: bede608
   archived: false
   latestVersion: v0.4.0
-  collectedAt: 2026-09-04T19:33:04Z
+  collectedAt: 2026-09-04T20:59:40Z
 timeline:
   created: 2014-11-03
   lastCommit: 2021-02-08
   lastRelease: 2020-12-18
 popularity:
-  star: 6730
+  star: 6729
   watcher: 165
   fork: 425
   release: 53
@@ -82,6 +82,49 @@ total:
   openIssue: 276
   commit: 826
 ---
+path: /home/runner/.x-repo/github.com/odeke-em/drive
+collectedAt: 2026-09-04T20:59:41Z
+loc:
+  Go:
+    code: 29817
+    comments: 7623
+    blanks: 5641
+    files: 148
+  Json:
+    code: 4219
+    comments: 0
+    blanks: 0
+    files: 2
+  Python:
+    code: 278
+    comments: 21
+    blanks: 74
+    files: 1
+  Protobuf:
+    code: 211
+    comments: 304
+    blanks: 79
+    files: 1
+  Svg:
+    code: 89
+    comments: 0
+    blanks: 0
+    files: 6
+  Makefile:
+    code: 68
+    comments: 4
+    blanks: 17
+    files: 2
+  Markdown:
+    code: 0
+    comments: 1306
+    blanks: 646
+    files: 8
+total:
+  code: 35109
+  comments: 9292
+  blanks: 6495
+  files: 168
 ---
 date: "2026-08-24"
 repo:
