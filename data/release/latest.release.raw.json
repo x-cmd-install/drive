@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 15865376,
       "digest": null,
-      "download_count": 77744,
+      "download_count": 77753,
       "created_at": "2020-12-18T18:56:59Z",
       "updated_at": "2020-12-18T18:57:03Z",
       "browser_download_url": "https://github.com/odeke-em/drive/releases/download/v0.4.0/drive_linux"
