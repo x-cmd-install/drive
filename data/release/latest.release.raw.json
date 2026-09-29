@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 13640679,
       "digest": null,
-      "download_count": 166,
+      "download_count": 167,
       "created_at": "2020-12-18T18:56:29Z",
       "updated_at": "2020-12-18T18:56:42Z",
       "browser_download_url": "https://github.com/odeke-em/drive/releases/download/v0.4.0/drive_armv5"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 13639631,
       "digest": null,
-      "download_count": 148,
+      "download_count": 149,
       "created_at": "2020-12-18T18:56:42Z",
       "updated_at": "2020-12-18T18:56:46Z",
       "browser_download_url": "https://github.com/odeke-em/drive/releases/download/v0.4.0/drive_armv6"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 14926230,
       "digest": null,
-      "download_count": 340,
+      "download_count": 341,
       "created_at": "2020-12-18T18:56:50Z",
       "updated_at": "2020-12-18T18:56:54Z",
       "browser_download_url": "https://github.com/odeke-em/drive/releases/download/v0.4.0/drive_armv8"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 15685952,
       "digest": null,
-      "download_count": 332,
+      "download_count": 333,
       "created_at": "2020-12-18T18:56:54Z",
       "updated_at": "2020-12-18T18:56:59Z",
       "browser_download_url": "https://github.com/odeke-em/drive/releases/download/v0.4.0/drive_darwin"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 15865376,
       "digest": null,
-      "download_count": 79172,
+      "download_count": 79244,
       "created_at": "2020-12-18T18:56:59Z",
       "updated_at": "2020-12-18T18:57:03Z",
       "browser_download_url": "https://github.com/odeke-em/drive/releases/download/v0.4.0/drive_linux"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 355,
       "digest": null,
-      "download_count": 106,
+      "download_count": 107,
       "created_at": "2020-12-18T18:57:03Z",
       "updated_at": "2020-12-18T18:57:03Z",
       "browser_download_url": "https://github.com/odeke-em/drive/releases/download/v0.4.0/md5Sums.txt"
