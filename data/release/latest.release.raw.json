@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 13640679,
       "digest": null,
-      "download_count": 179,
+      "download_count": 180,
       "created_at": "2020-12-18T18:56:29Z",
       "updated_at": "2020-12-18T18:56:42Z",
       "browser_download_url": "https://github.com/odeke-em/drive/releases/download/v0.4.0/drive_armv5"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 13639631,
       "digest": null,
-      "download_count": 156,
+      "download_count": 157,
       "created_at": "2020-12-18T18:56:42Z",
       "updated_at": "2020-12-18T18:56:46Z",
       "browser_download_url": "https://github.com/odeke-em/drive/releases/download/v0.4.0/drive_armv6"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 13638141,
       "digest": null,
-      "download_count": 476,
+      "download_count": 477,
       "created_at": "2020-12-18T18:56:46Z",
       "updated_at": "2020-12-18T18:56:50Z",
       "browser_download_url": "https://github.com/odeke-em/drive/releases/download/v0.4.0/drive_armv7"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 14926230,
       "digest": null,
-      "download_count": 349,
+      "download_count": 351,
       "created_at": "2020-12-18T18:56:50Z",
       "updated_at": "2020-12-18T18:56:54Z",
       "browser_download_url": "https://github.com/odeke-em/drive/releases/download/v0.4.0/drive_armv8"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 15685952,
       "digest": null,
-      "download_count": 343,
+      "download_count": 344,
       "created_at": "2020-12-18T18:56:54Z",
       "updated_at": "2020-12-18T18:56:59Z",
       "browser_download_url": "https://github.com/odeke-em/drive/releases/download/v0.4.0/drive_darwin"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 15865376,
       "digest": null,
-      "download_count": 82760,
+      "download_count": 82823,
       "created_at": "2020-12-18T18:56:59Z",
       "updated_at": "2020-12-18T18:57:03Z",
       "browser_download_url": "https://github.com/odeke-em/drive/releases/download/v0.4.0/drive_linux"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 355,
       "digest": null,
-      "download_count": 113,
+      "download_count": 114,
       "created_at": "2020-12-18T18:57:03Z",
       "updated_at": "2020-12-18T18:57:03Z",
       "browser_download_url": "https://github.com/odeke-em/drive/releases/download/v0.4.0/md5Sums.txt"
